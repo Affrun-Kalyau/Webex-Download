@@ -24,10 +24,10 @@ Looking to stay connected with colleagues and friends no matter where you are? D
 
 **Why Webex?**
 
-    **High-quality video and audio**
-    **Convenient chat for messaging**
-    **Screen and document sharing**
-    **Secure and safe connections**
+  **High-quality video and audio**
+  **Convenient chat for messaging**
+  **Screen and document sharing**
+  **Secure and safe connections**
 
 Download Webex today and discover new possibilities for communication and collaboration!
 
